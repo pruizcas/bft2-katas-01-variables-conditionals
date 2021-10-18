@@ -19,7 +19,7 @@ describe('Las variables en Javascript', () => {
   })
 })
 
-describe('Comparaciones en Java', () => {
+describe('Comparaciones en Javascript', () => {
     it("usando ===", () => {
         const number = 20;
         //completa la asignación usando number y el comparador ===
